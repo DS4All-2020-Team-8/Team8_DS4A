@@ -12,6 +12,7 @@ The main resources that we use:
 - https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker (combined "stringency index" of containment measures, per country per day (https://github.com/OxCGRT/covid-policy-tracker/blob/master/documentation/index_methodology.md); *covid-stringency-index.csv*)
 - https://www.kaggle.com/themlphdstudent/novel-covid19-dataset (*cases_country.csv*)
 - https://www.google.com/covid19/mobility/ (the mobility data)
+- https://en.wikipedia.org/wiki/List_of_current_heads_of_state_and_government (ruling leaders of each country, *leaders.csv*)
 
 Internal data files:
 - *unified-data-per-country.csv*: per country data on income, population, density, total number of confirmed cases and deaths, mortality rate 
