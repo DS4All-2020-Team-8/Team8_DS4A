@@ -13,6 +13,7 @@ The main resources that we use:
 - https://www.kaggle.com/themlphdstudent/novel-covid19-dataset (*cases_country.csv*)
 - https://www.google.com/covid19/mobility/ (the mobility data)
 - https://en.wikipedia.org/wiki/List_of_current_heads_of_state_and_government (ruling leaders of each country, *leaders.csv*)
+- https://en.wikipedia.org/wiki/List_of_countries_by_average_yearly_temperature (historic average temperature, *temperature.csv*)
 
 Internal data files:
 - *unified-data-per-country.csv*: per country data on income, population, density, total number of confirmed cases and deaths, mortality rate 
