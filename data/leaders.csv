@@ -1,0 +1,265 @@
+Country Name,Country Code,Main Leader Gender,Any Leader Gender
+Aruba,ABW,M,M
+Afghanistan,AFG,M,M
+Angola,AGO,M,M
+Albania,ALB,M,M
+Andorra,AND,M,M
+Arab World,ARB,M,M
+United Arab Emirates,ARE,M,M
+Argentina,ARG,M,M
+Armenia,ARM,M,M
+American Samoa,ASM,M,M
+Antigua and Barbuda,ATG,M,M
+Australia,AUS,M,M
+Austria,AUT,M,M
+Azerbaijan,AZE,M,M
+Burundi,BDI,M,M
+Belgium,BEL,M,M
+Benin,BEN,M,M
+Burkina Faso,BFA,M,M
+Bangladesh,BGD,F,F
+Bulgaria,BGR,M,M
+Bahrain,BHR,M,M
+"Bahamas, The",BHS,M,M
+Bosnia and Herzegovina,BIH,M,M
+Belarus,BLR,M,M
+Belize,BLZ,M,M
+Bermuda,BMU,M,M
+Bolivia,BOL,F,F
+Brazil,BRA,M,M
+Barbados,BRB,F,F
+Brunei Darussalam,BRN,M,M
+Bhutan,BTN,M,M
+Botswana,BWA,M,M
+Central African Republic,CAF,M,M
+Canada,CAN,M,M
+Central Europe and the Baltics,CEB,M,M
+Switzerland,CHE,F,F
+Channel Islands,CHI,M,M
+Chile,CHL,M,M
+China,CHN,M,M
+Cote d'Ivoire,CIV,M,M
+Cameroon,CMR,M,M
+"Congo, Dem. Rep.",COD,M,M
+"Congo, Rep.",COG,M,M
+Colombia,COL,M,M
+Comoros,COM,M,M
+Cabo Verde,CPV,M,M
+Costa Rica,CRI,M,M
+Caribbean small states,CSS,M,M
+Cuba,CUB,M,M
+Curacao,CUW,M,M
+Cayman Islands,CYM,M,M
+Cyprus,CYP,M,M
+Czech Republic,CZE,M,M
+Germany,DEU,F,F
+Djibouti,DJI,M,M
+Dominica,DMA,M,M
+Denmark,DNK,F,F
+Dominican Republic,DOM,M,M
+Algeria,DZA,M,M
+East Asia & Pacific (excluding high income),EAP,M,M
+Early-demographic dividend,EAR,M,M
+East Asia & Pacific,EAS,M,M
+Europe & Central Asia (excluding high income),ECA,M,M
+Europe & Central Asia,ECS,M,M
+Ecuador,ECU,M,M
+"Egypt, Arab Rep.",EGY,M,M
+Euro area,EMU,M,M
+Eritrea,ERI,M,M
+Spain,ESP,M,M
+Estonia,EST,M,F
+Ethiopia,ETH,M,F
+European Union,EUU,M,M
+Fragile and conflict affected situations,FCS,M,M
+Finland,FIN,F,F
+Fiji,FJI,M,M
+France,FRA,M,M
+Faroe Islands,FRO,M,M
+"Micronesia, Fed. Sts.",FSM,M,M
+Gabon,GAB,M,M
+United Kingdom,GBR,M,M
+Georgia,GEO,M,F
+Ghana,GHA,M,M
+Gibraltar,GIB,M,M
+Guinea,GIN,M,M
+"Gambia, The",GMB,M,M
+Guinea-Bissau,GNB,M,M
+Equatorial Guinea,GNQ,M,M
+Greece,GRC,M,F
+Grenada,GRD,M,M
+Greenland,GRL,M,M
+Guatemala,GTM,M,M
+Guam,GUM,M,M
+Guyana,GUY,M,M
+High income,HIC,M,M
+"Hong Kong SAR, China",HKG,M,M
+Honduras,HND,M,M
+Heavily indebted poor countries (HIPC),HPC,M,M
+Croatia,HRV,M,M
+Haiti,HTI,M,M
+Hungary,HUN,M,M
+IBRD only,IBD,M,M
+IDA & IBRD total,IBT,M,M
+IDA total,IDA,M,M
+IDA blend,IDB,M,M
+Indonesia,IDN,M,M
+IDA only,IDX,M,M
+Isle of Man,IMN,M,M
+India,IND,M,M
+Not classified,INX,M,M
+Ireland,IRL,F,F
+"Iran, Islamic Rep.",IRN,M,M
+Iraq,IRQ,M,M
+Iceland,ISL,F,F
+Israel,ISR,M,M
+Italy,ITA,M,M
+Jamaica,JAM,M,M
+Jordan,JOR,M,M
+Japan,JPN,M,M
+Kazakhstan,KAZ,M,M
+Kenya,KEN,M,M
+Kyrgyz Republic,KGZ,M,M
+Cambodia,KHM,M,M
+Kiribati,KIR,M,M
+St. Kitts and Nevis,KNA,M,M
+"Korea, Rep.",KOR,M,M
+Kuwait,KWT,M,M
+Latin America & Caribbean (excluding high income),LAC,M,M
+Lao PDR,LAO,M,M
+Lebanon,LBN,M,M
+Liberia,LBR,M,M
+Libya,LBY,M,M
+St. Lucia,LCA,M,M
+Latin America & Caribbean,LCN,M,M
+Least developed countries: UN classification,LDC,M,M
+Low income,LIC,M,M
+Liechtenstein,LIE,M,M
+Sri Lanka,LKA,M,M
+Lower middle income,LMC,M,M
+Low & middle income,LMY,M,M
+Lesotho,LSO,M,M
+Late-demographic dividend,LTE,M,M
+Lithuania,LTU,M,M
+Luxembourg,LUX,M,M
+Latvia,LVA,M,M
+"Macao SAR, China",MAC,M,M
+St. Martin (French part),MAF,M,M
+Morocco,MAR,M,M
+Monaco,MCO,M,M
+Moldova,MDA,M,M
+Madagascar,MDG,M,M
+Maldives,MDV,M,M
+Middle East & North Africa,MEA,M,M
+Mexico,MEX,M,M
+Marshall Islands,MHL,M,M
+Middle income,MIC,M,M
+North Macedonia,MKD,M,M
+Mali,MLI,M,M
+Malta,MLT,M,M
+Myanmar,MMR,M,F
+Middle East & North Africa (excluding high income),MNA,M,M
+Montenegro,MNE,M,M
+Mongolia,MNG,M,M
+Northern Mariana Islands,MNP,M,M
+Mozambique,MOZ,M,M
+Mauritania,MRT,M,M
+Mauritius,MUS,M,M
+Malawi,MWI,M,M
+Malaysia,MYS,M,M
+North America,NAC,M,M
+Namibia,NAM,M,F
+New Caledonia,NCL,M,M
+Niger,NER,M,M
+Nigeria,NGA,M,M
+Nicaragua,NIC,M,M
+Netherlands,NLD,M,M
+Norway,NOR,F,F
+Nepal,NPL,M,F
+Nauru,NRU,M,M
+New Zealand,NZL,F,F
+OECD members,OED,M,M
+Oman,OMN,M,M
+Other small states,OSS,M,M
+Pakistan,PAK,M,M
+Panama,PAN,M,M
+Peru,PER,M,M
+Philippines,PHL,M,M
+Palau,PLW,M,M
+Papua New Guinea,PNG,M,M
+Poland,POL,M,M
+Pre-demographic dividend,PRE,M,M
+Puerto Rico,PRI,M,M
+"Korea, Dem. People’s Rep.",PRK,M,M
+Portugal,PRT,M,M
+Paraguay,PRY,M,M
+West Bank and Gaza,PSE,M,M
+Pacific island small states,PSS,M,M
+Post-demographic dividend,PST,M,M
+French Polynesia,PYF,M,M
+Qatar,QAT,M,M
+Romania,ROU,M,M
+Russian Federation,RUS,M,M
+Rwanda,RWA,M,M
+South Asia,SAS,M,M
+Saudi Arabia,SAU,M,M
+Sudan,SDN,M,M
+Senegal,SEN,M,M
+Singapore,SGP,M,F
+Solomon Islands,SLB,M,M
+Sierra Leone,SLE,M,M
+El Salvador,SLV,M,M
+San Marino,SMR,M,M
+Somalia,SOM,M,M
+Serbia,SRB,F,F
+Sub-Saharan Africa (excluding high income),SSA,M,M
+South Sudan,SSD,M,M
+Sub-Saharan Africa,SSF,M,M
+Small states,SST,M,M
+Sao Tome and Principe,STP,M,M
+Suriname,SUR,M,M
+Slovak Republic,SVK,M,F
+Slovenia,SVN,M,M
+Sweden,SWE,M,M
+Eswatini,SWZ,M,M
+Sint Maarten (Dutch part),SXM,M,M
+Seychelles,SYC,M,M
+Syrian Arab Republic,SYR,M,M
+Turks and Caicos Islands,TCA,M,M
+Chad,TCD,M,M
+East Asia & Pacific (IDA & IBRD countries),TEA,M,M
+Europe & Central Asia (IDA & IBRD countries),TEC,M,M
+Togo,TGO,M,M
+Thailand,THA,M,M
+Tajikistan,TJK,M,M
+Turkmenistan,TKM,M,M
+Latin America & the Caribbean (IDA & IBRD countries),TLA,M,M
+Timor-Leste,TLS,M,M
+Middle East & North Africa (IDA & IBRD countries),TMN,M,M
+Tonga,TON,M,M
+South Asia (IDA & IBRD),TSA,M,M
+Sub-Saharan Africa (IDA & IBRD countries),TSS,M,M
+Trinidad and Tobago,TTO,M,F
+Tunisia,TUN,M,M
+Turkey,TUR,M,M
+Tuvalu,TUV,M,M
+Tanzania,TZA,M,M
+Uganda,UGA,M,M
+Ukraine,UKR,M,M
+Upper middle income,UMC,M,M
+Uruguay,URY,M,M
+United States,USA,M,M
+Uzbekistan,UZB,M,M
+St. Vincent and the Grenadines,VCT,M,M
+"Venezuela, RB",VEN,M,M
+British Virgin Islands,VGB,M,M
+Virgin Islands (U.S.),VIR,M,M
+Vietnam,VNM,M,M
+Vanuatu,VUT,M,M
+World,WLD,M,M
+Samoa,WSM,M,M
+Kosovo,XKX,M,M
+"Yemen, Rep.",YEM,M,M
+South Africa,ZAF,M,M
+Zambia,ZMB,M,M
+Zimbabwe,ZWE,M,M
