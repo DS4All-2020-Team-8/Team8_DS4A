@@ -14,7 +14,7 @@ We hypothesize that although geographic and economic factors play a certain role
 concrete measures and policies imposed by governments, such as school closure or travel bans, would be the most effective, 
 as they would greatly reduce overall population mobility.
 
-The ​goals​ of this report are:
+The ​goals​ of this project are:
 - to understand what measures have been the most effective in decreasing the
 number of COVID-19 cases;
 - to predict possible outcomes of enforcing specific mitigation measures; and
